@@ -2,7 +2,7 @@
 
 ## A Research-Grade Deep Learning Pipeline Using PyTorch & Transfer Learning
 
-**Author:** [A Sankar Chaitanya]  
+**Author:** [G.J.V.N.Devi]  
 **Institution:** [Rajiv Gandhi University of Knowledge Technologies]  
 **Date:** June 2026
 
